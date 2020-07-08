@@ -1,5 +1,6 @@
 Built with plain front end language
 
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
+JQuery
